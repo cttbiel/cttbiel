@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 Currently learning React JS and Node<br>🎯 Goals: Post 5 projects on Github by 12/24<br>🎲 Fun fact: 私は日本語を勉強しています</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Currently learning React JS and Node<br>🎯 Goals: Create a website and publish it by 12/24<br>🎲 Fun fact: I'm learning 日本語</p>
 
 ###
 
@@ -42,7 +42,7 @@
   <img src="https://profile-counter.glitch.me/cttbiel/count.svg?"  />
 </div>
 
-###
+<--!###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cttbiel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
