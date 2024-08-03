@@ -1,3 +1,4 @@
+<!--Introduction -->
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
@@ -13,7 +14,7 @@
 <p align="left">✨ Creating bugs since 2024<br>📚 Currently learning React JS and Node<br>🎯 Goals: Create a website and publish it by 12/24<br>🎲 Fun fact: I'm learning 日本語</p>
 
 ###
-
+<!-- Mainly used Programming Languages or Frameworks -->
 <h2 align="left">I code with</h2>
 
 ###
@@ -35,6 +36,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cttbiel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cttbiel/)
 
 ###
 <!-- GitHub Stats -->
