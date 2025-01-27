@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Currently learning React JS and Node<br>🎯 Goals: Create a website and publish it by 12/24<br>🎲 Fun fact: I'm learning 日本語</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Currently learning C<br><!--🎯 Goals: Create a website and publish it by 12/24<br>🎲 Fun fact: I'm learning 日本語</p>-->
 
 ###
 <!-- Mainly used Programming Languages or Frameworks -->
