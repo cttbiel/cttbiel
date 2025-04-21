@@ -42,13 +42,24 @@
 
 ## 📌 Featured Projects
 
-/*🚀 [**Construction E-commerce**](https://github.com/cttbiel/brickstore)  
-📦 A web application for construction material sales, allowing user registration, shopping cart, and checkout.*/  
+- 🎯 [**Secret Number Game**](https://github.com/cttbiel/secret_number_game)  
+A simple number guessing game using JavaScript, HTML, and CSS.  
 
-<!--Introduction 🔍 [**Automated Data Analysis with Python**](https://github.com/your-repo)  
-📊 A Python-based system for automating data processing and visualization with Pandas and Matplotlib.-->  
+- 🔐 [**Text Decoder**](https://github.com/cttbiel/text-decoder)  
+A text encryption and decryption tool made with JavaScript, HTML, and CSS.
 
-🔗 Check out more on my [GitHub Repositories](https://github.com/cttbiel?tab=repositories)!
+- 🌐 [**Personal Portfolio**](https://github.com/cttbiel/Gabriel)  
+A personal website built with React, Node.js, JavaScript, and CSS.  
+
+- 🎵 [**Musiqué**](https://github.com/cttbiel/musique)  
+A music streaming prototype built with React, Node.js, and TypeScript.
+
+---
+
+## 🧪 Upcoming / In Progress
+
+- 🧱 [**BrickStore**](https://github.com/cttbiel/brickstore)  
+An e-commerce web project for construction material — structure under review for React or Java backend.
 
 ---
 
@@ -68,3 +79,5 @@
 </p>
 
 ---
+
+Thanks for visiting! Let's keep building 🚀
