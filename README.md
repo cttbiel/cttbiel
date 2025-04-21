@@ -42,8 +42,8 @@
 
 ## 📌 Featured Projects
 
-🚀 [**Construction E-commerce**](https://github.com/cttbiel/brickstore)  
-📦 A web application for construction material sales, allowing user registration, shopping cart, and checkout.  
+/*🚀 [**Construction E-commerce**](https://github.com/cttbiel/brickstore)  
+📦 A web application for construction material sales, allowing user registration, shopping cart, and checkout.*/  
 
 <!--Introduction 🔍 [**Automated Data Analysis with Python**](https://github.com/your-repo)  
 📊 A Python-based system for automating data processing and visualization with Pandas and Matplotlib.-->  
