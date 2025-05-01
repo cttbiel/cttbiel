@@ -51,7 +51,7 @@ A text encryption and decryption tool made with JavaScript, HTML, and CSS.
 - 🌐 [**Personal Portfolio**](https://github.com/cttbiel/Gabriel)  
 A personal website built with React, Node.js, JavaScript, and CSS.  
 
-- 🎵 [**Musiqué**](https://github.com/cttbiel/musique)  
+- 🎵 [**Musique**](https://github.com/cttbiel/musique)  
 A music streaming prototype built with React, Node.js, and TypeScript.
 
 ---
