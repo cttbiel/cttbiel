@@ -1,83 +1,92 @@
-<!--Introduction -->
-<h1 align="center">Hey there! 👋 Welcome to my GitHub Profile!</h1>
+<h1 align="center">Gabriel Carvalho</h1>
+<p align="center">
+  <b>Computer Engineering Student | Full Stack Developer in Progress</b><br>
+  <i>Turning coffee into code ☕💻</i>
+</p>
 
 <p align="center">
-  <b>I'm Gabriel Carvalho, a passionate software developer from Belo Horizonte, Brazil!</b><br>
-  🚀 Exploring the world of technology and constantly learning new things.
+  <a href="https://gabrielcarvalho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Online-blue?style=for-the-badge&logo=vercel" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/cttbiel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-- 🎯 **Software Developer & Engineering Student**  
-- 📚 Currently learning **Python**, **Django**, and **backend development**  
-- 💡 Interested in **web development, software engineering, and problem-solving**  
-- 🔍 Exploring **automation, cloud computing, and security**  
-- 🎯 Goal: Be **consistent** on GitHub and contribute to impactful projects  
+Hi! I'm Gabriel Carvalho, a Computer Engineering student at CEFET-MG, passionate about technology, education, and social impact. I work as a full stack developer, with experience in React, Next.js, Node.js, Java, and modern databases.
 
----
-
-## ⚡ Technologies & Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-</div>
+- 💼 Intern at GOL Linhas Aéreas
+- 🧑🏾‍💻 Young Black developer, advocate for democratizing access to information and quality education
+- 🌍 Always learning, sharing, and building solutions that make a difference
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Portfolio
 
-- 🎯 [**Secret Number Game**](https://github.com/cttbiel/secret_number_game)  
-A simple number guessing game using JavaScript, HTML, and CSS.  
+My portfolio is the best reflection of my work: modern, responsive, multilingual (EN/PT/FR), with custom CVs for each language. You can switch between light/dark themes and learn more about my journey, projects, and skills.
 
-- 🔐 [**Text Decoder**](https://github.com/cttbiel/text-decoder)  
-A text encryption and decryption tool made with JavaScript, HTML, and CSS.
-
-- 🌐 [**Personal Portfolio**](https://github.com/cttbiel/Gabriel)  
-A personal website built with React, Node.js, JavaScript, and CSS.  
-
-- 🎵 [**Musique**](https://github.com/cttbiel/musique)  
-A music streaming prototype built with React, Node.js, and TypeScript.
+🔗 [Check out my portfolio](https://gabrielcarvalho.vercel.app/)
 
 ---
 
-## 🧪 Upcoming / In Progress
+## 🏆 Featured Projects
 
-- 🧱 [**BrickStore**](https://github.com/cttbiel/brickstore)  
-An e-commerce web project for construction material — structure under review for React or Java backend.
+### 🧱 [BrickStore](https://brickstore.vercel.app/)
+
+A Brazilian e-commerce for construction materials, focused on user experience, performance, and best development practices.
+
+- **Stack:** Next.js, React, TypeScript, PostgreSQL (Railway)
+- **Highlights:**
+  - Fully functional shopping system (checkout is simulated for portfolio purposes)
+  - Modern, responsive, and accessible interface
+  - Dynamic catalog, promotions, and popular categories
+  - Perfect project to showcase full stack skills
 
 ---
 
-## 📊 GitHub Stats
+### 🎓 [Trilha Federal](https://trilhafederal.vercel.app/)
+
+A social platform to democratize access to information about federal entrance exams, technical schools, and public universities in Brazil.
+
+- **Stack:** Next.js, React, Supabase, CSS3
+- **Highlights:**
+  - Complete catalog of federal institutions (expanding)
+  - Authentication system (Google/email)
+  - Personalized dashboard and favorites system
+  - Responsive and accessible design
+  - Project with strong social impact, founded by young people who experienced the lack of access to information
+
+> **Motto:** Trilha Federal - Democratizing access to information about federal entrance exams.
+
+---
+
+## 💡 Other Projects
+
+- [See all my repositories on GitHub](https://github.com/cttbiel?tab=repositories)
+
+---
+
+## 🌐 Languages
+
+- Portuguese (native)
+- English (advanced)
+- French (intermediate)
+
+---
+
+## 📫 Contact
+
+- Email: cttbiel@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/cttbiel/)
+- [Portfolio](https://gabrielcarvalho.vercel.app/)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cttbiel&show_icons=true&theme=gotham" />
+  <i>“Technology only makes sense when it transforms lives.”</i>
 </p>
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/cttbiel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/cttbiel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
----
-
-Thanks for visiting! Let's keep building 🚀
