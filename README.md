@@ -29,7 +29,7 @@
 
 Hi! I'm Gabriel Carvalho, a Computer Engineering student at CEFET-MG, passionate about technology, education, and social impact. I work as a full stack developer, with experience in React, Next.js, Node.js, Java, and modern databases.
 
-- 💼 Intern at GOL Linhas Aéreas
+- 💼 Data Engineering Intern at GOL Linhas Aéreas
 - 🧑🏾‍💻 Young Black developer, advocate for democratizing access to information and quality education
 - 🌍 Always learning, sharing, and building solutions that make a difference
 
