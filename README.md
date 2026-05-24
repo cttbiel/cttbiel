@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Carvalho</h1>
 <p align="center">
   <b>Computer Engineering Student @ CEFET-MG | Data Engineering & Full-Stack Developer</b><br>
-  <i>Building scalable software, automating workflows, and developing tech with social impact. ✈️💻</i>
+  <i>Building scalable software, automating workflows, and developing tech with social impact.</i> ✈️💻
 </p>
 
 <p align="center">
